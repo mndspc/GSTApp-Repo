@@ -1,0 +1,10 @@
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithConsole\bin\Debug\GSTAppWithConsole.exe.config
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithConsole\bin\Debug\GSTAppWithConsole.exe
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithConsole\bin\Debug\GSTAppWithConsole.pdb
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithConsole\bin\Debug\GST.dll
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithConsole\bin\Debug\GST.pdb
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithConsole\obj\Debug\GSTAppWithConsole.csprojAssemblyReference.cache
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithConsole\obj\Debug\GSTAppWithConsole.csproj.CoreCompileInputs.cache
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithConsole\obj\Debug\GSTAppWithConsole.csproj.CopyComplete
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithConsole\obj\Debug\GSTAppWithConsole.exe
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithConsole\obj\Debug\GSTAppWithConsole.pdb

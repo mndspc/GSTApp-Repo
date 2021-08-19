@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSTAppWithConsole", "GSTAppWithConsole\GSTAppWithConsole.csproj", "{080AA59D-F9D7-4301-9029-2DC8787BEB2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSTAppWithWinform", "GSTAppWithWinform\GSTAppWithWinform.csproj", "{79249FD4-469D-4671-8492-938B398BFCF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{080AA59D-F9D7-4301-9029-2DC8787BEB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080AA59D-F9D7-4301-9029-2DC8787BEB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080AA59D-F9D7-4301-9029-2DC8787BEB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080AA59D-F9D7-4301-9029-2DC8787BEB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79249FD4-469D-4671-8492-938B398BFCF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79249FD4-469D-4671-8492-938B398BFCF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79249FD4-469D-4671-8492-938B398BFCF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79249FD4-469D-4671-8492-938B398BFCF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6408CFF-C2CA-430F-9BF4-1365A59DAA08}
+	EndGlobalSection
+EndGlobal

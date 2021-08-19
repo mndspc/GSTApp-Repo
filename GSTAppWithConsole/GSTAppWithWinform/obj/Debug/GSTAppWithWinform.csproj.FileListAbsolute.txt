@@ -1,0 +1,13 @@
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithWinform\bin\Debug\GSTAppWithWinform.exe.config
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithWinform\bin\Debug\GSTAppWithWinform.exe
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithWinform\bin\Debug\GSTAppWithWinform.pdb
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithWinform\bin\Debug\GST.dll
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithWinform\bin\Debug\GST.pdb
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithWinform\obj\Debug\GSTAppWithWinform.csprojAssemblyReference.cache
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithWinform\obj\Debug\GSTAppWithWinform.Form1.resources
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithWinform\obj\Debug\GSTAppWithWinform.Properties.Resources.resources
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithWinform\obj\Debug\GSTAppWithWinform.csproj.GenerateResource.cache
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithWinform\obj\Debug\GSTAppWithWinform.csproj.CoreCompileInputs.cache
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithWinform\obj\Debug\GSTAppWithWinform.csproj.CopyComplete
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithWinform\obj\Debug\GSTAppWithWinform.exe
+D:\Corporate\Vinsys\JK Tech\C#\Demos\GSTApp-Repo\GSTAppWithConsole\GSTAppWithWinform\obj\Debug\GSTAppWithWinform.pdb
